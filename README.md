@@ -77,3 +77,4 @@ LinkedIn: <a> www.linkedin.com/in/jian-nian-ng-5083a2387 </a>
 ## 📌 Project Information
 
 **Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+Under Supervision: @waqaskarimccie @Networkwalks 
