@@ -41,7 +41,7 @@ To allow each machine able to communicate to each other and use as targets, they
 - Andriod Studio: https://developer.android.com/studio
 
 
-# <strong> Step of the Project </strong>
+# <strong> 📍Step of the Project </strong>
 <p><b><i>First step</i></b></p>- Download VirtualBox, Linux image iso, Window 11 image iso, Android image iso <br>
 <p><b><i>Second step</i></b></p>- Installed VirtualBox<br>
 <p><b><i>Third step</i></b></p>- Setup VirtualBox (Network -> NAT Network -> IPV4 prefix= 10.0.0.0/24 enabled DHCP)<br>
@@ -53,5 +53,24 @@ To allow each machine able to communicate to each other and use as targets, they
 <img width="1041" height="886" alt="change ip 11" src="https://github.com/user-attachments/assets/a4184af4-cf48-4599-b100-3b172642c135" />
 <img width="1030" height="865" alt="change ip android" src="https://github.com/user-attachments/assets/8630b271-1d01-4b35-8f7c-7312e657fa0c" />
 <br><br>
+<p><b><i>Sixth step</i></b></p>- Ping and check IP configuration
+<img width="1031" height="879" alt="ping and check 11" src="https://github.com/user-attachments/assets/0b43fbbd-cd94-4851-b270-3b17768ef490" />
+<img width="1347" height="937" alt="ping and check kali" src="https://github.com/user-attachments/assets/5b88defa-e48c-4d3f-8388-21cf5ddb5a22" />
+<img width="1347" height="937" alt="ping and check kali" src="https://github.com/user-attachments/assets/a9e095d9-a6c7-4bbc-9ef0-89c9d807e10b" />
+<br><br>
+<p><b><i>Seventh step</i></b></p>- Take a snapshot for recovery backup
+<img width="1044" height="900" alt="snapshot kali" src="https://github.com/user-attachments/assets/0b15aea5-d67f-44a2-8ea4-1174958f207c" />
+<img width="886" height="974" alt="snapshot 11" src="https://github.com/user-attachments/assets/5b9ba488-fc47-41a3-9628-cfca318974a5" />
+<img width="972" height="887" alt="snapshot android" src="https://github.com/user-attachments/assets/a0547ec7-4b40-4901-b55d-febc8ac8293b" />
+<br><br>
 
+# <strong> Problem Faced </strong>
+During the IP configuration in kali's machine the network once unable to reconnect. To solve the problem I had refer to the video made by Network Walk.
+<a> https://youtu.be/K6rMQdg10Zk?si=VapagEomh5AtHLJP </a>
 
+# <strong> What Have I Learn </strong>
+From this project and tutorial class I learnt how to configure the laptop IP address for Window, Linux, and also Android OS. I learnt that even though this is just a project but we still have to take it seriously as we attempt in real world, we must isolate the lab's network from the real internet to keep the home network safe from harm.
+
+# 🙎 Author
+By: Ng Jian  Nian
+LinkedIn: <a> www.linkedin.com/in/jian-nian-ng-5083a2387 </a>
