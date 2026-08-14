@@ -74,3 +74,6 @@ From this project and tutorial class I learnt how to configure the laptop IP add
 # 🙎 Author
 By: Ng Jian  Nian
 LinkedIn: <a> www.linkedin.com/in/jian-nian-ng-5083a2387 </a>
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
